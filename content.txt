@@ -1,0 +1,10 @@
+
+class and obj 
+data and method
+python is oops
+__init__ runs auto
+method runs manually
+adv of oops :
+reuse 
+debug
+create datatype
