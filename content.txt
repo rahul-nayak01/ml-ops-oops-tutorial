@@ -8,3 +8,16 @@ adv of oops :
 reuse 
 debug
 create datatype
+
+end to end chatbook
+
+func vs method
+dunder method 
+sef
+att otside class
+
+encapsulation
+setter , getter
+static method
+
+inheritence
